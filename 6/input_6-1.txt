@@ -1,0 +1,13 @@
+COM)B)9
+B)C)3
+C)D)4
+D)E)5
+E)F)1
+B)G)10
+G)H)5
+D)I)4
+E)J)3
+J)K)7
+K)L)5
+K)YOU)3
+I)SAN)9
